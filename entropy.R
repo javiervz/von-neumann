@@ -3,7 +3,7 @@
 library(ggplot2)
 
 #' Load data
-data<-read.csv("C:\\Users\\jxver\\Dropbox\\sentence\\k-core\\lattices.csv")
+data<-read.csv("lattices.csv")
 View(data)
 
 #' plot
